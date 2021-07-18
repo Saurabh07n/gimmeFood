@@ -179,4 +179,10 @@
   .contact-form {
     width: 100%;
   }
+  
+  .btn-app img {
+    height: 30px;
+    width: auto;
+    margin-right: 5px;
+  }
 }
